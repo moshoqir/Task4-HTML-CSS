@@ -1,0 +1,188 @@
+
+.img{
+     position: fixed; width: 300px; height: auto;top: 0;margin-left: 220px;
+    margin-top: 15px;
+
+}
+
+
+
+
+
+.div1In2{
+background-color: aliceblue;
+width: 157px;
+    height: 155px;
+    overflow: hidden;
+
+}
+
+.div2In2{
+    background-color: aliceblue;
+width: 157px;
+    height: 155px;
+    overflow: hidden;
+    
+    margin-left: 181px;
+    margin-top: -155px;
+}
+
+.div3In2{
+    background-color: aliceblue;
+    width: 157px;
+        height: 155px;
+        overflow: hidden;
+        
+        margin-left: 375px;
+        margin-top: -155px;
+}
+
+.div4In2{
+    overflow-y: scroll;
+    
+
+        height: 60px;
+
+        border-top: 2px solid black ;
+        border-bottom:2px solid black ;
+        
+        
+        
+
+}
+
+.div5In2{
+    background-color: aliceblue;
+    width: 157px;
+    height: 155px;
+    overflow: hidden;
+}
+
+.div6In2{
+    background-color: aliceblue;
+    width: 157px;
+        height: 155px;
+        overflow: hidden;
+        
+        margin-left: 181px;
+        margin-top: -155px;
+}
+
+/* index3 style */
+.firstDiv {
+    margin: auto;
+    width: 60%;
+    overflow: hidden; /* Ensures the parent contains floated children */
+}
+
+.secDiv {
+    background-color: white;
+    width: 70%;
+    padding: 15px;
+    float: left;
+}
+
+.thirdDiv {
+    background-color: gray;
+    width: 30%;
+    float: left;
+    padding: 15px; /* Add padding if required */
+}
+
+.parentDiv{
+    display: flex;
+        margin: auto;
+        width: 60%;
+        overflow: hidden;
+}
+
+.footer{
+    background-color: #333; /* Dark background */
+    color: white; /* White text color */
+    text-align: center; /* Center the text */
+    padding: 10px 0; /* Space inside the footer */
+    margin-top: 20px; /* Space above the footer */
+    font-size: 14px; /* Adjust font size */
+    position: relative; /* Normal positioning */
+    width: 100%; 
+}
+
+
+/* index4 style */
+
+.divFlex{
+    display: flex;
+    
+    justify-content: space-between;
+    width: 400px
+
+}
+
+.in1{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+}
+.in2{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+    display: none;
+
+}
+.in3{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+}
+.in4{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+    display: none;
+
+}
+.in5{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+}
+.in6{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+    display: none;
+
+}
+.in7{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+}
+.in8{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+    display: none;
+
+}
+.in9{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+}
+.in10{
+    background-color: red;
+    width: 49px;
+    text-align: center;
+    display: none;
+
+}
+
+/* index5 Styling */
+
+table tr,td{
+    border: 1px solid black;
+    border-radius: 5px;
+   box-shadow: 1px 1p;
+}
